@@ -1,0 +1,40 @@
+Encoding genes.txt genes.huf
+Number of bytes in input : 13608
+Number of bytes in output: 5038
+
+Decoding genes.huf genesRecover.txt
+Number of bytes in input (compressed): 5038
+Number of bytes in output (decompressed): 13608
+
+Encoding abcefString.txt abcefString.huf
+Number of bytes in input : 5750
+Number of bytes in output: 2783
+
+Decoding abcefString.huf abcefStringRecover.txt
+Number of bytes in input (compressed): 2783
+Number of bytes in output (decompressed): 5750
+
+Encoding greeneggsandham.txt greeneggsandham.huf
+Number of bytes in input : 43164
+Number of bytes in output: 25183
+
+Decoding greeneggsandham.huf greeneggsandhamRecover.txt
+Number of bytes in input (compressed): 25183
+Number of bytes in output (decompressed): 43164
+
+Encoding midsummer.txt midsummer.huf
+Number of bytes in input : 102793
+Number of bytes in output: 60667
+
+Decoding midsummer.huf midsummerRecover.txt
+Number of bytes in input (compressed): 60667
+Number of bytes in output (decompressed): 102793
+
+Encoding don.jpg don.huf
+Number of bytes in input : 19405
+Number of bytes in output: 21205
+
+Decoding don.huf donRecover.jpg
+Number of bytes in input (compressed): 21205
+Number of bytes in output (decompressed): 19405
+Test file was completed.
